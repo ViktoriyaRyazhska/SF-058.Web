@@ -1,0 +1,29 @@
+.local_navigation {
+  text-align: center;
+}
+
+.menu_button {
+  /* text style */
+  color: #a4a4a4;
+  font-size: 13px;
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  list-style-type: none;
+  cursor: pointer;
+
+  /* position */
+  margin-bottom: 10%;
+}
+
+.menu_button a:active {
+  color: #b41b1b;
+  display: list-item;
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+.menu_button:before {
+
+}

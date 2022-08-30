@@ -1,0 +1,7 @@
+.container {
+  position: fixed;
+  width: 200px;
+  border-right: none;
+  margin: 0;
+  padding: 16px;
+}

@@ -1,0 +1,26 @@
+.social_network_component_container {
+  margin-top: 30%;
+  margin-left: 40px;
+}
+
+p {
+  color: #afaeae;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 35px 35px;
+  grid-template-rows: 35px 35px;
+}
+
+.social_media_icon {
+  width: 16px;
+  height: 16px;
+}
+
+.social_media_icon svg {
+  width: 100%;
+  height: 100%;
+}
