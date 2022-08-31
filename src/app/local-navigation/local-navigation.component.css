@@ -4,7 +4,7 @@
 
 .menu_button {
   /* text style */
-  color: #a4a4a4;
+  color: #b2b2b2;
   font-size: 13px;
   text-transform: uppercase;
   text-align: left;
@@ -18,7 +18,7 @@
 }
 
 .menu_button a:active {
-  color: #b41b1b;
+  color: #c80515;
   display: list-item;
   list-style-type: disc;
   list-style-position: outside;

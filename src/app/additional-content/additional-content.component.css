@@ -1,0 +1,29 @@
+.most_container {
+  display: inline-flex;
+}
+
+.most {
+  margin-right: 5%;
+  padding: 0;
+}
+
+.divider_container {
+  margin: 10% 0;
+}
+
+.divider_container h3 {
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.divider_container h3 span {
+  background: #fff;
+  padding-right: 10px;
+}
