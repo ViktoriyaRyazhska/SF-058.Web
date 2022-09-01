@@ -6,13 +6,21 @@ import {AppComponent} from './app.component';
 import {SidebarComponent} from "./left-sidebar/sidebar.component";
 import { LocalNavigationComponent } from './local-navigation/local-navigation.component';
 import { SocialNetworksComponent } from './social-networks/social-networks.component';
+import { AdditionalContentComponent } from './additional-content/additional-content.component';
+import { PhotoOfTheDayComponent } from './photo-of-the-day/photo-of-the-day.component';
+import { DividerComponent } from './divider/divider.component';
+import { PostComponent } from './post/post.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SidebarComponent,
     LocalNavigationComponent,
-    SocialNetworksComponent
+    SocialNetworksComponent,
+    AdditionalContentComponent,
+    PhotoOfTheDayComponent,
+    DividerComponent,
+    PostComponent
   ],
   imports: [
     BrowserModule,
